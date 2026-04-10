@@ -15,9 +15,9 @@
 
 > I'm a passionate DevOps Engineer in training, focused on building scalable infrastructure and automated CI/CD pipelines. Currently deepening my skills in cloud platforms, containerization, and infrastructure as code. I believe in **learning by building** — every project here is a step toward production-grade DevOps mastery.
 
-- 📍 Based in **Karachi, Pakistan**
+- 📍 Based in **Chakwal, Pakistan**
 - 🌐 Open to **Remote DevOps Opportunities**
-- 🎯 Goal: Land my first remote DevOps role in 2025
+- 🎯 Goal: Land my first remote DevOps role in 2026
 - 📚 Currently learning **Kubernetes, Terraform & GitHub Actions**
 - 💬 Ask me about **Linux, Docker, AWS, Azure, Git**
 
@@ -82,7 +82,7 @@
 
 ---
 
-## 🎯 2025 Roadmap
+## 🎯 2026 Roadmap
 
 - [x] Linux fundamentals
 - [x] Git & GitHub
@@ -100,10 +100,10 @@
 ## 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/abdullah-bin-sajid" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-sajid-azure" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:abdullahsajidst007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
