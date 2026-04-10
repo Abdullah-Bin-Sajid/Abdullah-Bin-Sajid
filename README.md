@@ -35,6 +35,15 @@ CI/CD        ████░░░░░░░░░░░░  20%
 
 ---
 
+## 📈 GitHub Stats
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Bin-Sajid&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah-Bin-Sajid&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Bin-Sajid&layout=compact&theme=dark)
+
+---
+
 ## 🤝 Let's Connect
 - 📧 Email: abdullahsajidst007@gmail.com
 - 📍 Chakwal, Pakistan
