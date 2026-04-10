@@ -38,10 +38,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Bin-Sajid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Abdullah-Bin-Sajid&theme=tokyonight&hide_border=true" width="48%" />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
