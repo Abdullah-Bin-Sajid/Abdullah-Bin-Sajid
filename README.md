@@ -11,11 +11,14 @@
 ---
 
 ## 🛠️ Tech Stack
-Linux        ████████████░░░░  75%
-AWS EC2      ████████████░░░░  75%
-Docker       ██████████░░░░░░  60%
-Git/GitHub   ███████████░░░░░  65%
-CI/CD        ████░░░░░░░░░░░░  20%
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Learning-1D9E75?style=for-the-badge)
 
 ## 🧰 Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -36,11 +39,9 @@ CI/CD        ████░░░░░░░░░░░░  20%
 ---
 
 ## 📈 GitHub Stats
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Bin-Sajid&show_icons=true&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdullah-Bin-Sajid&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Bin-Sajid&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Bin-Sajid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Abdullah-Bin-Sajid&theme=tokyonight&hide_border=true" width="48%" />
 
 ---
 
