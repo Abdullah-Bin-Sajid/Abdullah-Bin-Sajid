@@ -73,8 +73,8 @@
 
 - [x] Linux fundamentals
 - [x] Git & GitHub
-- [x] Docker basics
-- [x] AWS basics (EC2, S3, IAM)
+- [ ] Docker basics
+- [ ] AWS basics (EC2, S3, IAM)
 - [x] Azure intermediate
 - [ ] Kubernetes (K8s)
 - [ ] Terraform
