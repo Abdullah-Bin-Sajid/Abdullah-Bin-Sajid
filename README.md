@@ -1,29 +1,36 @@
-<h1 align="center">👋 Hi, I'm Abdullah Bin Sajid</h1>
-<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Abdullah Sajid</h1>
+<h3 align="center">DevOps & Cloud Engineer | AWS | Docker | Linux | CI/CD</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=DevOps+Engineer+in+Training;Linux+%7C+Docker+%7C+AWS+%7C+Azure;Building+CI%2FCD+Pipelines;Open+to+Remote+Opportunities!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdullah-Bin-Sajid&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Abdullah-Bin-Sajid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-> I'm a passionate DevOps Engineer in training, focused on building scalable infrastructure and automated CI/CD pipelines. Currently deepening my skills in cloud platforms, containerization, and infrastructure as code. I believe in **learning by building** — every project here is a step toward production-grade DevOps mastery.
+I'm a DevOps & Cloud Engineer focused on building 
+real-world cloud infrastructure and automating deployments.
 
-- 📍 Based in **Chakwal, Pakistan**
-- 🌐 Open to **Remote DevOps Opportunities**
-- 🎯 Goal: Land my first remote DevOps role in 2026
-- 📚 Currently learning **Kubernetes, Terraform & GitHub Actions**
-- 💬 Ask me about **Linux, Docker, AWS, Azure, Git**
+- 🌍 Based in **Chakwal, Pakistan**
+- 💻 Open to **Remote DevOps & Cloud opportunities**
+- 🎯 Goal: **Land a remote Cloud/DevOps role in 2026**
+- 🔨 Currently building: **CI/CD pipelines & AWS projects**
+- 📚 Currently learning: **Terraform, Kubernetes, GitHub Actions**
+- 💬 Ask me about: **Linux, Docker, AWS, Git, Bash**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+
+**Containerization**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Operating Systems**
 
@@ -35,69 +42,46 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Containerization**
+**Scripting**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Cloud Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Currently Learning**
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Scripting & Config**
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-## 🚀 Projects
-
-> 🔨 *Actively building DevOps projects — check back soon!*
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
-|---------|-------------|------|
-| 🐳 Coming Soon | Dockerized web app with CI/CD | Docker, GitHub Actions |
-| ☁️ Coming Soon | AWS EC2 auto-deploy pipeline | AWS, Bash |
-| 🔧 Coming Soon | Infrastructure as Code setup | Terraform, Azure |
+|---|---|---|
+| [Server Health Check](https://github.com/Abdullah-Bin-Sajid/server-health-check) | Automated Bash script monitoring CPU, Memory & Disk on AWS EC2 | Bash, Linux, AWS EC2 |
+| [Python DevOps Project](https://github.com/Abdullah-Bin-Sajid/python-devops-project) | Python app with full Git workflow — branches, PRs, merges | Python, Git, GitHub |
+| 🔨 Coming Soon | Dockerized web app with CI/CD pipeline | Docker, GitHub Actions, AWS |
+| 🔨 Coming Soon | Infrastructure as Code setup | Terraform, AWS |
 
 ---
 
-## 🎯 2026 Roadmap
+## 📊 GitHub Stats
 
-- [x] Linux fundamentals
-- [x] Git & GitHub
-- [ ] Docker basics
-- [ ] AWS basics (EC2, S3, IAM)
-- [x] Azure intermediate
-- [ ] Kubernetes (K8s)
-- [ ] Terraform
-- [ ] GitHub Actions CI/CD
-- [ ] AWS Solutions Architect Certification
-- [ ] First Remote DevOps Job 🎯
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Bin-Sajid&show_icons=true&theme=dark" alt="stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Bin-Sajid&layout=compact&theme=dark" alt="langs" />
+</p>
 
 ---
 
 ## 📬 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdullah-sajid-azure" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdullahsajidst007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-sajid-azure)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
-<p align="center">
-  <i>"Automate everything. Monitor everything. Break nothing."</i>
-</p>
-
+> *"Build. Deploy. Automate. Repeat."*
