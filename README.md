@@ -68,9 +68,9 @@ real-world cloud infrastructure and automating deployments.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Bin-Sajid&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Bin-Sajid&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdullah-Bin-Sajid&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
